@@ -9,6 +9,7 @@
 
 - 《HTML5 与 CSS3 权威指南》
 - 《图解CSS3》
+- 《精妙绝伦css》
 - 《JavaScript权威指南》
 - 《vuejs实战》
 - 《你不知道的 JavaScript》 上卷
