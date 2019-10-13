@@ -21,3 +21,4 @@
             - Day3-20 组件，组件中的data
             - Day3-21 组件，为什么组件中的data必须是一个function
             - Day3-23 组件，使用vue提供的component动态切换组件
+            - Day3-24 组件，组件切换动画
