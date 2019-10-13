@@ -12,4 +12,7 @@
         - Day3-11 动画，小球动画每次重新开始
         - Day3-12 动画，使用transition-group 
         - Day3-13 动画，实现列表删除和移除动画
-        
+        - Day3-14 动画，transition-group 中的appear和 tag标签默认渲染为span
+        - Day3-15 组件，组件化和模块化的区别
+        - Day3-16 组件，组件创建的方式一
+        - Day3-17 组件，创建组件的方式二
