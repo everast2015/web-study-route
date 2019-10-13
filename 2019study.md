@@ -20,3 +20,4 @@
             - Day3-19 组件，使用components 定义私有组件
             - Day3-20 组件，组件中的data
             - Day3-21 组件，为什么组件中的data必须是一个function
+            - Day3-23 组件，使用vue提供的component动态切换组件
