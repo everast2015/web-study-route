@@ -29,3 +29,4 @@
             - Day4-7 使用 $refs 引用元素和组件引用
             - Day4-10 路由，vue-route的基本的使用
             - Day4-11 路由，router-link 的使用
+            - Day5-12 路由，路由重定向到相应的路径
