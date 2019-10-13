@@ -19,3 +19,4 @@
             - Day3-18 组件，创建组件的方式三
             - Day3-19 组件，使用components 定义私有组件
             - Day3-20 组件，组件中的data
+            - Day3-21 组件，为什么组件中的data必须是一个function
