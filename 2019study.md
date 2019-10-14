@@ -56,3 +56,4 @@
             - Day5-17 loader处理的流程
             - Day5-18 loader处理less 文件
             - Day5-19 loader处理less文件，内部依赖（node_scss)
+            - Day6-01 复习，webpack配置一，配置文件，sass-loader,node-sass 一起使用
