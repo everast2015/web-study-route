@@ -49,3 +49,4 @@
             - Day5-12 webpack-dev-server 的基本的配置
             - Day5-13 webpack-dev-server 常用的配置命名之一
             - Day5-14 webpack-dev-server 配置命令的第二种方式
+            - Day5-15 HTML-webpack-plugin 两个的基本作用
