@@ -41,3 +41,5 @@
             - Day5-06 computed 计算属性
             - Day5-07 watch/computed/methods 各方法的区别
             - Day5-08 nrm 包的使用
+
+        - 2019年10月4号
