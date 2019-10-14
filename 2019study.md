@@ -38,3 +38,4 @@
             - Day5-03 名称案例，使用keyup 事件实现
             - Day5-04 watch 监听数据变化
             - Day5-05 watch 监听路由变化，可以监听对象的变化
+            - Day6-06 computed 计算属性
