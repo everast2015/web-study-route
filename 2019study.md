@@ -40,3 +40,4 @@
             - Day5-05 watch 监听路由变化，可以监听对象的变化
             - Day5-06 computed 计算属性
             - Day5-07 watch/computed/methods 各方法的区别
+            - Day5-08 nrm 包的使用
