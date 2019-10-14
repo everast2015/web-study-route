@@ -51,3 +51,5 @@
             - Day5-14 webpack-dev-server 配置命令的第二种方式
             - Day5-15 HTML-webpack-plugin 两个的基本作用
             - Day5-16 loader 使用loader 配置处理css样式表
+
+        - 2019年10月5号
