@@ -64,6 +64,7 @@
             - Day6-06 webpack 中babel的配置，把ES6语法转为ES5语法
             - Day6-07 关于babel 的几点说明
             - Day6-08 使用vue实例的render方法渲染组件
+            - Day6-09 区分webpack 中导入vue，和普通网页中的script
 
 
 
