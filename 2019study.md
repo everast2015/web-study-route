@@ -63,8 +63,7 @@
             - Day6-05 关于webpack和npm 中几个问题的说明，json文件是不能写注释的
             - Day6-06 webpack 中babel的配置，把ES6语法转为ES5语法
             - Day6-07 关于babel 的几点说明
-
-
+            - Day6-08 使用vue实例的render方法渲染组件
 
 
 
