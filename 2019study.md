@@ -60,6 +60,7 @@
             - Day6-02 webpack配置二，html-webpack-plugin 的作用
             - Day6-03 webpack url-loader 的使用
             - Day6-04 webpack 中使用url-loader 处理字体图标
+            - Day6-05 关于webpack和npm 中几个问题的说明，json文件是不能写注释的
 
 
 
