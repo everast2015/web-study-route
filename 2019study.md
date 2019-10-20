@@ -84,6 +84,7 @@
             - 26 正则表达式
             - ES6 let 快级作用域
             - ES6 const 常量
+            - ES6 let const var 的区别
 
 
 
