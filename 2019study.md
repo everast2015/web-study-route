@@ -86,6 +86,7 @@
             - ES6 const 常量
             - ES6 let const var 的区别
             - ES6 解构赋值
+            - ES6 symbal
 
 
 
