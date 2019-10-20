@@ -85,6 +85,7 @@
             - ES6 let 快级作用域
             - ES6 const 常量
             - ES6 let const var 的区别
+            - ES6 解构赋值
 
 
 
