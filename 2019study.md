@@ -97,6 +97,7 @@
             - 二倍图
         2019年10月26号
             - 背景缩放background-size
+            - 二倍图多倍图切图神奇-cutterman 切图神器
 
 
 
